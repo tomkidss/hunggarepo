@@ -1,0 +1,84 @@
+Package: com.tomkids.flappybird
+Version: 1.2
+Architecture: iphoneos-arm
+Maintainer: Unknown
+Filename: debs/Flappy Bird_1.2.deb
+Size: 1302136
+MD5sum: 9b445ed349e88e77407ef82300ee1563
+SHA1: ff894100b558a0f2eecd6e124b716de1d512d533
+SHA256: 54fd40fd841eebeff38072b4f13a9b5f43ec432dcf4818a329cb010881053c20
+Section: Applications
+Description: Converted from IPA
+Author: Unknown
+Name: Flappy Bird_1.2
+
+Package: com.tomkids.foobar2000
+Version: 1.0.33
+Architecture: iphoneos-arm
+Maintainer: Unknown
+Filename: debs/foobar2000_1.0.33.deb
+Size: 11899968
+MD5sum: 3c58b3039ef8646546fa02293c63c0bc
+SHA1: e2398ce5e875919a3203de74c924655a3825553b
+SHA256: a1d1fd80f2db5325e5a9571487edcd8c08bc03b128e2d1f11c4003a4093ef1e7
+Section: Applications
+Description: Converted from IPA
+Author: Unknown
+Name: Foobar2000_1.0.33
+
+Package: com.tomkids.pacman
+Version: 1.0.5
+Architecture: iphoneos-arm
+Maintainer: Unknown
+Filename: debs/Pac-Man v1.0.5.deb
+Size: 1631390
+MD5sum: 6485c89795e907c9e827611247e6ca36
+SHA1: df74e5b37467e29cce61139a8d4d16852708a26b
+SHA256: 3c526503adb8b85b4bd250d81c06f222b958780757beb9470ffeb27412c8fb1f
+Section: Applications
+Description: Converted from IPA
+Author: Unknown
+Name: Pac-Man v1.0.5
+
+Package: hungga.GoldenMiner
+Version: 1.1
+Architecture: iphoneos-arm
+Maintainer: Unknown
+Filename: debs/Golden Miner_1.1_AppOnly_Deb.deb
+Size: 5015520
+MD5sum: d94e2f8fc7d1ed0db0b484c342095771
+SHA1: 7b4577a8085e10dcee9be6ee2b9450f05bc48270
+SHA256: 315bab4f19d51143e8bb63ae018623cdab76bdc11aa03848f361cb1eb254ca5a
+Section: Applications
+Description: Converted from IPA
+Author: Unknown
+Name: Golden Miner_1.1
+
+Package: tomkids.contra
+Version: 1.2.3
+Architecture: iphoneos-arm
+Maintainer: Unknown
+Filename: debs/Contra_1.2.3_AppOnly_Deb.deb
+Size: 47834548
+MD5sum: 18bc3702d41407039e0885ca078fe34d
+SHA1: f90e6b6f27715ad38027c805163bd0671e0ddde1
+SHA256: a7c9816d14ffb62d6e2ecc3f68af19b6b8c2b513605695b5100bd6904efcb2a4
+Section: Applications
+Description: Converted from IPA
+Author: Unknown
+Name: Contra 1.2.3
+
+Package: tomkids.soundwave
+Version: 1.0
+Architecture: iphoneos-arm
+Maintainer: Unknown
+Filename: debs/codevn-com.soundwave.app_1.0.0-102+debug_iphoneos-arm_Deb.deb
+Size: 819398
+MD5sum: da4d2cee9adf95a7d7475ba9a6e14961
+SHA1: 665939129dfcf95d9365251aef4a3c5d366bba08
+SHA256: 222ac094feff2640f7f5ee83b09e1ef9d1d82945405226b47ac9efe42553777e
+Section: Applications
+Description: Converted from IPA
+Author: Unknown
+Name: Sound Cloud
+
