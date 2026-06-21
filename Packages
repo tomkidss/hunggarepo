@@ -54,6 +54,20 @@ Description: Converted from IPA
 Author: Unknown
 Name: Golden Miner_1.1
 
+Package: tomkids.Youtube1.4Fix
+Version: 1.4
+Architecture: iphoneos-arm
+Maintainer: Unknown
+Filename: debs/YouTube_1.4.0_Fixed-beta2_IOS6_Deb.deb
+Size: 7989588
+MD5sum: 776ffe9757962a442334cfd1d16dcd9a
+SHA1: 048ea9283e33c3be143624562ea51405741ce60c
+SHA256: 19e02e4f2ead3a15dd9ca3be173f5e881a8bb890dcda3d4ab182ad4a0fa8f5cc
+Section: Applications
+Description: Converted from IPA
+Author: Unknown
+Name: YouTube_1.4.0
+
 Package: tomkids.contra
 Version: 1.2.3
 Architecture: iphoneos-arm
@@ -67,6 +81,34 @@ Section: Applications
 Description: Converted from IPA
 Author: Unknown
 Name: Contra 1.2.3
+
+Package: tomkids.dacnhantam
+Version: 1.0
+Architecture: iphoneos-arm
+Maintainer: Unknown
+Filename: debs/Dac nhan tam_1.0_AppOnly_Deb.deb
+Size: 180688
+MD5sum: c063f3a892d73ad2c0d94f02206e3c5d
+SHA1: d378b913834f7a2b5c7c38023db583097e857601
+SHA256: 7972042bae43397ea721eefc37dceea9f79d848530ebafb0f317a9c845e5d5d1
+Section: Applications
+Description: Converted from IPA
+Author: Unknown
+Name: Dac Nhan Tam
+
+Package: tomkids.jewelcity
+Version: 1.0
+Architecture: iphoneos-arm
+Maintainer: Unknown
+Filename: debs/Jewel City_1.0.0_AppOnly_Deb.deb
+Size: 4237904
+MD5sum: 2b02702bab0922a8f0513787e7be3c16
+SHA1: 9be18c96830301cb62885b2004f6ac74cba0a49e
+SHA256: 19a29ce0f5ee4c0878d33a3e81f90ebb6aae2fe65cba0729b4297ebc6074072d
+Section: Applications
+Description: Converted from IPA
+Author: Unknown
+Name: Jewel City
 
 Package: tomkids.soundwave
 Version: 1.0
