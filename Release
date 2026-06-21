@@ -1,0 +1,8 @@
+Origin: HÙNG GA
+Label: HÙNG GA
+Suite: stable
+Version: 1.0
+Codename: ios
+Architectures: iphoneos-arm
+Components: main
+Description: Kho ứng dụng và tweak của Hùng Ga
