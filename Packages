@@ -1,16 +1,133 @@
+Package: ai.akemi.appsyncunified
+Version: 110.0
+Architecture: iphoneos-arm
+Maintainer: Karen/あけみ <karen@akemi.ai>
+Installed-Size: 700
+Depends: firmware (>= 5.0), mobilesubstrate (>= 0.9.5100), firmware (<= 16.3.1)
+Conflicts: us.hackulo.appsync50, us.hackulo.appsync50plus, com.hackyouriphone.appsync7, com.teiron.ppsync, appsync50plus2.25pp, com.linusyang.appsync, com.sull.appsyncunified, com.sull.appsyncunifiedbeta, com.xsellize.appsync50, com.xsellize.appsync50plus, appsync50plus.178, appsync50plus2.178, cydia.net.angelxwind.appsyncunified, com.ifucker.appsync, com.sexyphonetech.appsyncunified, appsyncunifiedofficial, org.digbick.asufixed, cn.mingmei.asu623517234615234813, technology.goated.appsync, technology.goated.appsyncunified, vaginalfisting.appsynctool, science.xnu.substitute
+Replaces: us.hackulo.appsync50, net.angelxwind.appsyncunified
+Provides: appsync, net.angelxwind.appsyncunified
+Filename: debs/nodelete-ai.akemi.appsyncunified.deb
+Size: 58440
+MD5sum: 26f898f0b80f3bd842527aa9a9859bb1
+SHA1: f0392e1c1992789ac92c17dc7db3718fca6df899
+SHA256: fa97d20ecaab914c7d07fc17ff2f31c15d34b33a5eebc158cb2c83e8a7ec2abc
+Section: Tweaks
+Homepage: https://cydia.akemi.ai/
+Description: Enables the ability to install unsigned/fakesigned iOS applications.
+Author: Karen/あけみ, Linus Yang <karen@akemi.ai>
+Depiction: https://cydia.akemi.ai/?page/ai.akemi.appsyncunified
+Name: AppSync Unified
+
+Package: ca.adrien.appdrop
+Version: 2.0
+Architecture: iphoneos-arm
+Maintainer: Adrien Ruest-Lorquet
+Installed-Size: 2428
+Depends: firmware (>= 5.0), net.angelxwind.appsyncunified | com.linusyang.appsync, com.autopear.installipa | ai.akemi.appinst
+Filename: debs/ca.adrien.appdrop_2.0_iphoneos-arm.deb
+Size: 1562812
+MD5sum: 2c002d0d9578bfde9c587d06fb514022
+SHA1: 27e1f1c34092d8f3b94f12d8965703eadcde35c1
+SHA256: 8419111a0c661249d7b476dd9773dda25fce21757687cbbca5b1e5c71e555592
+Section: Utilities
+Homepage: https://github.com/AdrienRL1/AppDrop
+Description: Browse, search and install vintage iOS apps (iOS 5-10 era) from the IPA Archive (157k apps). Grounded AI assistant, device-aware suggestions, multilingual.
+Tag: compatible_min::ios5.0
+Author: Adrien Ruest-Lorquet
+Depiction: https://adrienrl1.github.io/cydia/depiction.html
+Icon: https://adrienrl1.github.io/cydia/PackageIcon.png
+Name: AppDrop
+
+Package: com.arichardson.weepreferenceloader
+Version: 1.1
+Architecture: iphoneos-arm
+Maintainer: poetic_folly <poetic_folly@modmyi.com>
+Depends: firmware (>= 5.0), mobilesubstrate
+Filename: debs/com.arichardson.weepreferenceloader_1.1_iphoneos-arm.deb
+Size: 34562
+MD5sum: 1deaeb81dd1dcd9fe7f9521fa8be6524
+SHA1: 10b0ecae5a95031c1f7485e6e735ba64779fcf79
+SHA256: 4971aec5462de7fba3593fb18bf6091d9c40ef59e48d57725eedea95bb71cb7d
+Section: Tweaks
+Priority: extra
+Homepage: http://modmyi.com/info/weepreferenceloader.php
+Description: A framework to easily add preferences to the Notifications settings.
+Author: Andrew Richardson <andrewr114@gmail.com>
+Depiction: http://modmyi.com/info/weepreferenceloader.d.php
+Name: WeePreferenceLoader
+Sponsor: ModMyi.com <http://modmyi.com/forums/index.php?styleid=31>
+
+Package: com.dba-tech.forecast
+Version: 2.0.2-12
+Architecture: iphoneos-arm
+Maintainer: dba Technologies, LLC <support@dba-technologies.com>
+Depends: mobilesubstrate, com.arichardson.weepreferenceloader, firmware (>= 5.0)
+Conflicts: com.ashman.clockhide, gsc.ipad
+Filename: debs/tomkids.forecast_2.0.2-12_iphoneos-arm.deb
+Size: 23108
+MD5sum: 5b01a999f795d60ea23bb9ebdde90716
+SHA1: 0a373efc0fa7877c7f667054d28e2ea34543ecdf
+SHA256: b178f4b588cb97e6d0f9c4691474f851e9ad6f6a2074af5665d856f2559be59a
+Section: Tweaks
+Priority: extra
+Homepage: http://modmyi.com/info/forecast.php
+Description: Replaces the standard lock clock with the native iOS5 weather widget.
+Tag: cydia::commercial
+Author: dba Technologies, LLC <support@dba-technologies.com>
+Depiction: http://modmyi.com/info/forecast.d.php
+Name: Forecast
+
+Package: com.saurik.substrate.safemode
+Version: 0.9.6001
+Architecture: iphoneos-arm
+Maintainer: Jay Freeman (saurik) <saurik@saurik.com>
+Installed-Size: 156
+Depends: mobilesubstrate (>= 0.9.3367+38)
+Conflicts: safe-mode-fixer-ios7
+Replaces: safe-mode-fixer-ios7
+Filename: debs/com.saurik.substrate.safemode_0.9.6001_iphoneos-arm.deb
+Size: 20774
+MD5sum: 8ef36f325fbb3649bcb5845fb3223df0
+SHA1: c845a0a58777bf54a5a71b90acf71ab166072c23
+SHA256: 6c6640839efa2c31ef2cb48a00bb4b83da9c29434fc8745e37710d0bf704abc2
+Section: Tweaks
+Priority: optional
+Description: safe mode safety extension (safe)
+Author: Jay Freeman (saurik) <saurik@saurik.com>
+Depiction: http://cydia.saurik.com/info/com.saurik.substrate.safemode/
+Name: Substrate Safe Mode
+
+Package: com.skyglow.weatherx
+Version: 3.5
+Architecture: iphoneos-arm
+Maintainer: Requis
+Depends: mobilesubstrate (>= 0.9.2586), firmware (>= 2.0), firmware (<= 7.9), preferenceloader
+Conflicts: com.ixmoe.1pwn.weatherx, com.skyglow.stocksx
+Filename: debs/com.skyglow.weatherx_3.5_iphoneos-arm.deb
+Size: 155742
+MD5sum: 689171cd5f391aed223f3c0ad7e4ce3b
+SHA1: cef43a162338ef6001d56d4a4085a97e234d0340
+SHA256: 2da0aab5c140809c5d461a13a2c69029a1e4f8db9c56695c222648c37e04d9ea
+Section: Tweaks
+Description: Fix iOS's Weather & Stocks apps from iPhoneOS 2 to iOS 7, the widgets in the notification center, and the temperature in the iPad clock app!
+Author: Requis, Electimon
+Depiction: http://cydia.skyglow.es/depictions/com.skyglow.weatherx/depictions/index.html
+Name: Weather & Stocks
+
 Package: com.tomkids.flappybird
 Version: 1.2
 Architecture: iphoneos-arm
 Maintainer: Unknown
-Filename: debs/Flappy Bird_1.2.deb
-Size: 1302136
-MD5sum: 9b445ed349e88e77407ef82300ee1563
-SHA1: ff894100b558a0f2eecd6e124b716de1d512d533
-SHA256: 54fd40fd841eebeff38072b4f13a9b5f43ec432dcf4818a329cb010881053c20
+Filename: debs/com.tomkids.flappybird_1.2_iphoneos-arm.deb
+Size: 1302176
+MD5sum: f10001d43c4f0c2d50172be416bbcd53
+SHA1: 73bb9c6793355fd47b879d690e09c8a6b6afbb95
+SHA256: 131df9258bef90ef0495fd1ed7098caa35d1ae14ad508a28fc521491b66e958c
 Section: Applications
 Description: Converted from IPA
 Author: Unknown
-Name: Flappy Bird_1.2
+Name: FlappyBird1.2
 
 Package: com.tomkids.foobar2000
 Version: 1.0.33
@@ -30,43 +147,55 @@ Package: com.tomkids.pacman
 Version: 1.0.5
 Architecture: iphoneos-arm
 Maintainer: Unknown
-Filename: debs/Pac-Man v1.0.5.deb
-Size: 1631390
-MD5sum: 6485c89795e907c9e827611247e6ca36
-SHA1: df74e5b37467e29cce61139a8d4d16852708a26b
-SHA256: 3c526503adb8b85b4bd250d81c06f222b958780757beb9470ffeb27412c8fb1f
+Filename: debs/com.tomkids.pacman_1.0.5_iphoneos-arm.deb
+Size: 1631408
+MD5sum: d4fd784534ed5284a3b98b735879cc05
+SHA1: 8b9bcdeef1a8b04683b51aba550090266ea783df
+SHA256: 52535035f8fef9364c27067f0d1399ffb53e4894029c5ede7a1469d2e9ae0064
 Section: Applications
 Description: Converted from IPA
 Author: Unknown
-Name: Pac-Man v1.0.5
+Name: Pac-Man
 
-Package: hungga.GoldenMiner
-Version: 1.1
+Package: dev.preloading.tubereplacer
+Version: 1.0.5
 Architecture: iphoneos-arm
-Maintainer: Unknown
-Filename: debs/Golden Miner_1.1_AppOnly_Deb.deb
-Size: 5015520
-MD5sum: d94e2f8fc7d1ed0db0b484c342095771
-SHA1: 7b4577a8085e10dcee9be6ee2b9450f05bc48270
-SHA256: 315bab4f19d51143e8bb63ae018623cdab76bdc11aa03848f361cb1eb254ca5a
-Section: Applications
-Description: Converted from IPA
-Author: Unknown
-Name: Golden Miner_1.1
+Maintainer: Preloading <me@preloading.dev>
+Installed-Size: 960
+Depends: mobilesubstrate (>= 0.9.5000), preferenceloader, firmware (>= 5.0), firmware (<< 11.0)
+Conflicts: bag.xml.tuberepair
+Filename: debs/dev.preloading.tubereplacer_1.0.5_iphoneos-arm.deb
+Size: 325930
+MD5sum: eeffba29ce38081ed0ad2fc95e8401f0
+SHA1: 69127a7bceacc198292c9b37c345453f1b92620e
+SHA256: 07c22e4f6f52014e4a5d9b48d30b097897933d5dbecb70beaf4050bc7d8a535e
+Section: Tweaks
+Homepage: https://cydia.preloading.dev/depictions/tubereplacer/1.0/
+Description: A fix for YouTube with sign-in.
+Author: Preloading <me@preloading.dev>
+Depiction: https://cydia.preloading.dev/depictions/tubereplacer/1.0/
+Icon: file:///Library/PreferenceBundles/TubeReplacerPrefs.bundle/icon@full.png
+Name: TubeReplacer
 
-Package: tomkids.Youtube1.4Fix
-Version: 1.4
+Package: preferenceloader
+Version: 2.2.6
 Architecture: iphoneos-arm
-Maintainer: Unknown
-Filename: debs/YouTube_1.4.0_Fixed-beta2_IOS6_Deb.deb
-Size: 7989588
-MD5sum: 776ffe9757962a442334cfd1d16dcd9a
-SHA1: 048ea9283e33c3be143624562ea51405741ce60c
-SHA256: 19e02e4f2ead3a15dd9ca3be173f5e881a8bb890dcda3d4ab182ad4a0fa8f5cc
-Section: Applications
-Description: Converted from IPA
-Author: Unknown
-Name: YouTube_1.4.0
+Maintainer: BigBoss <bigboss@thebigboss.org>
+Installed-Size: 526
+Depends: mobilesubstrate
+Filename: debs/tomkids.preferenceloader_2.2.6_iphoneos-arm.deb
+Size: 67668
+MD5sum: b0bbc6561c4d9620bd48a8f4248b51f4
+SHA1: d31082a25a57c5ff42c0eb21ac550ba93b2bb885
+SHA256: ab814ae140ed52a5fd3c67d8d9a84523567b6bc6845fe20f1daa541047f2ee21
+Section: System
+Homepage: http://moreinfo.thebigboss.org/moreinfo/depiction.php?file=preferenceloader2Data
+Description: load preferences in style
+Tag: role::hacker, purpose::library
+Author: Sam Bingner <maintainer@sbdhi.com>
+Depiction: http://moreinfo.thebigboss.org/moreinfo/depiction.php?file=preferenceloader2Data
+Dev: dustinhowett
+Name: PreferenceLoader
 
 Package: tomkids.contra
 Version: 1.2.3
@@ -82,33 +211,21 @@ Description: Converted from IPA
 Author: Unknown
 Name: Contra 1.2.3
 
-Package: tomkids.dacnhantam
-Version: 1.0
+Package: tomkids.nhaccuatui
+Version: 5.3.1
 Architecture: iphoneos-arm
-Maintainer: Unknown
-Filename: debs/Dac nhan tam_1.0_AppOnly_Deb.deb
-Size: 180688
-MD5sum: c063f3a892d73ad2c0d94f02206e3c5d
-SHA1: d378b913834f7a2b5c7c38023db583097e857601
-SHA256: 7972042bae43397ea721eefc37dceea9f79d848530ebafb0f317a9c845e5d5d1
+Maintainer: Tomkids
+Depends: firmware (< 9.0)
+Filename: debs/tomkids.nhaccuatui_5.3.1-1_iphoneos-arm.deb
+Size: 16604312
+MD5sum: b6c2eade3976000947aa910894eaffee
+SHA1: f6a46c4b29acb8d894f4a2125dd505082e5eae1a
+SHA256: 7be5071663b794a648a3777e1035ab28771da2e6823fc9a0a2789792c635f61d
 Section: Applications
-Description: Converted from IPA
-Author: Unknown
-Name: Dac Nhan Tam
-
-Package: tomkids.jewelcity
-Version: 1.0
-Architecture: iphoneos-arm
-Maintainer: Unknown
-Filename: debs/Jewel City_1.0.0_AppOnly_Deb.deb
-Size: 4237904
-MD5sum: 2b02702bab0922a8f0513787e7be3c16
-SHA1: 9be18c96830301cb62885b2004f6ac74cba0a49e
-SHA256: 19a29ce0f5ee4c0878d33a3e81f90ebb6aae2fe65cba0729b4297ebc6074072d
-Section: Applications
-Description: Converted from IPA
-Author: Unknown
-Name: Jewel City
+Description: Nhạc của tui cho IOS thấp
+Author: Tomkids
+Icon: https://tomkidss.github.io/cydia/icons/nhaccuatui.png
+Name: NhacCuaTui
 
 Package: tomkids.soundwave
 Version: 1.0
@@ -123,4 +240,20 @@ Section: Applications
 Description: Converted from IPA
 Author: Unknown
 Name: Sound Cloud
+
+Package: vn.tomkids.tweaks.popuphellosetting
+Version: 2.0.1-1+debug
+Architecture: iphoneos-arm
+Maintainer: TomKids
+Installed-Size: 256
+Depends: mobilesubstrate, preferenceloader
+Filename: debs/vn.tomkids.tweaks.popuphellosetting_2.0.2-1+debug_iphoneos-arm.deb
+Size: 8748
+MD5sum: 213348fd957730b472e7048862cac3f5
+SHA1: 774f1c7e61c6035741c4eb20a028bd8d5370790a
+SHA256: d7540b0eb3ebf2d687fcb4291e7cd17af285e6818a7a11f8a31bbda1d53626d5
+Section: Tweaks
+Description: Show a customizable popup inside Settings on iOS 5 to 8.
+Author: TomKids
+Name: PopUp Hello Setting
 
